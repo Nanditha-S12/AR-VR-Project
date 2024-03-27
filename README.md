@@ -8,6 +8,7 @@ Register No: 2348507, 2348508, 2348536
 
 
 INTRODUCTION
+
 The AR Interior Planner project is an innovative venture aimed at revolutionizing the traditional 
 approach to interior design and space planning. With the rapid advancements in augmented reality (AR) 
 technology, there emerges a unique opportunity to merge digital and physical realms seamlessly, 
